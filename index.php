@@ -50,8 +50,8 @@
                 <div class="col col-left">
                     <div class="fixed-box">
                         <div class="big-logo">
-                            <img class="wechat-qrcode" src="//default.u.qiniudn.com/pkuspot-wechat-qrcode.png" />
-                            <img class="pkuspot-logo" src="//default.u.qiniudn.com/pkuspot-logo.png" alt="在北大不吐槽会死-logo" />
+                            <img class="wechat-qrcode" src="assets/pkuspot-wechat-qrcode.png" />
+                            <img class="pkuspot-logo" src="assets/pkuspot-logo.png" alt="在北大不吐槽会死-logo" />
                         </div>
                         <div class="dianfm-entry">
                             <a class="dianfm-open-btn" href="http://www.dian.fm/616" target="_blank">北槽直播间</a>
@@ -71,19 +71,19 @@
                         <div class="icons">
                             <div class="icon podcast">
                                 <a href="https://itunes.apple.com/cn/podcast/zai-bei-da-bu-tu-cao-hui-si/id730325478" target="_blank">
-                                    <img src="//default.u.qiniudn.com/podcast-logo.png" />
+                                    <img src="assets/podcast-logo.png" />
                                     <div class="caption">Podcast</div>
                                 </a>
                             </div>
                             <div class="icon ximalaya">
                                 <a href="http://www.ximalaya.com/#/3789024/" target="_blank">
-                                    <img src="//default.u.qiniudn.com/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-logo.png" />
+                                    <img src="assets/ximalaya-logo.png" />
                                     <div class="caption">喜马拉雅</div>
                                 </a>
                             </div>
                             <div class="icon lizhi">
                                 <a href="http://www.lizhi.fm/#/30118" target="_blank">
-                                    <img src="//default.u.qiniudn.com/lizhifm-logo.png" />
+                                    <img src="assets/lizhifm-logo.png" />
                                     <div class="caption">荔枝FM</div>
                                 </a>
                             </div>
@@ -96,13 +96,13 @@
                         <div class="icons">
                             <div class="icon weibo">
                                 <a href="http://weibo.com/u/3849491849" target="_blank">
-                                    <img src="//default.u.qiniudn.com/sina-logo.png" />
+                                    <img src="assets/sina-logo.png" />
                                     <div class="caption">新浪微博</div>
                                 </a>
                             </div>
                             <div class="icon weixin">
                                 <div class="image">
-                                    <img src="//default.u.qiniudn.com/wechat-logo.png" />
+                                    <img src="assets/wechat-logo.png" />
                                     <div class="hidden-text"><span>微信号<br/><strong>pkuspot</strong></span></div>
                                 </div>
                                 <div class="caption">微信</div>
@@ -141,7 +141,7 @@
                         <div class="icons">
                             <div class="icon alipay">
                                 <a href="donate-alipay.html" target="_blank">
-                                    <img src="//default.u.qiniudn.com/alipay-logo.png" />
+                                    <img src="assets/alipay-logo.png" />
                                     <div class="caption">支付宝</div>
                                 </a>
                             </div>
@@ -204,7 +204,7 @@
                         </ul>
                     <?php else: ?>
                         <div class="loading">
-                            <img src="//default.u.qiniudn.com/loading.gif">
+                            <img src="assets/loading.gif">
                         </div>
                         <!-- Podcast List Placeholder -->
                     <?php endif; ?>

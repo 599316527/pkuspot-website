@@ -8,7 +8,7 @@ body {
 }
 .zclip-button {
     width: 50px;
-    background: url(http://default.u.qiniudn.com/icon-copy.png) no-repeat center center;
+    background: url(icon-copy.png) no-repeat center center;
     background-size: 24px auto;
 }
 .input-group-addon {
