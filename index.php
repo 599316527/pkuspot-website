@@ -286,7 +286,7 @@
     <div class="podcast-title">{{title}}<span class="podcast-pubdate">{{pubdate}}</span></div>
     <div class="podcast-description">{{description}}</div>
     <div class="podcast-player">
-        <audio src="{{{guid}}}" controls {{#autoplay}}autoplay{{/autoplay}}>
+        <audio src="{{guid}}" preload="none" controls {{#autoplay}}autoplay{{/autoplay}}>
             啊呀呀，你的浏览器不支持HTML5播放器的喵～
         </audio>
     </div>
